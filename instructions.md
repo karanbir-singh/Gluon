@@ -33,7 +33,7 @@
   * Come tipo di progetto, scegliere **Gluon Mobile - Single View Project**
   
 * Ogni volta che si crea un nuovo progetto o si apre un progetto non proprio, procedere nel seguente modo:
-  * All'interno dell'app, **Build Scripts > Project**: aprire **build.gradle**
+  * All'interno dell'**App** e non [root], **Build Scripts > Project**: aprire **build.gradle**
   * Cercare il seguente pezzo di codice
     ```
       android {
