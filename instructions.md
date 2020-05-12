@@ -15,7 +15,7 @@
   - _**Si possono tenere la caselle spuntate di default**_
   - **Tools** > spuntare la casella **Android SDK Build-tools con Rev. 29.0.3**
   - **Android 10 (API 29)** > spuntare la casella **SDK Platform API 29**
-  - **Android 8.10.0 (API 27)** > spuntare la casella **SDK Platform API 27**
+  - **Android 8.1.0 (API 27)** > spuntare la casella **SDK Platform API 27**
   - **Extras** > spuntare la casella **Android Support Repository**
   ##### > Install packages
 ## Gluon e Gradle
