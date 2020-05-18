@@ -17,6 +17,7 @@
   - **Android 8.1.0 (API 27)** > spuntare la casella **SDK Platform API 27**
   - **Extras** > spuntare la casella **Android Support Repository**
   ##### > Install packages
+  ##### > Accept License: per ogni licenza segnata con una "X"
 ## Gluon e Gradle
 * Aprire NetBeans
   * **Tools > Plugins > Available Plugins** : installare il plugin **Gluon plugin**
